@@ -45,5 +45,8 @@ msgstr "Показать скрытые датчики"
 msgid "Temperature"
 msgstr "Температура"
 
+msgid "Temperature:"
+msgstr "Температура:"
+
 msgid "This page displays the temperature sensors data."
 msgstr "На этой странице отображаются данные датчиков температуры."

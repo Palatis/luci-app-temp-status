@@ -34,6 +34,9 @@ msgstr "顯示隱藏感測器"
 msgid "Temperature"
 msgstr "溫度"
 
+msgid "Temperature:"
+msgstr "溫度："
+
 msgid "This page displays the temperature sensors data."
 msgstr "這個頁面顯示溫度感測器讀數。"
 
