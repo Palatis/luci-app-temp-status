@@ -48,5 +48,8 @@ msgstr "切换视图"
 msgid "Temperature"
 msgstr "温度"
 
+msgid "Temperature:"
+msgstr "温度："
+
 msgid "This page displays the temperature sensors data."
 msgstr "此页面显示温度传感器的信息。"

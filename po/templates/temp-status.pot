@@ -37,6 +37,9 @@ msgstr ""
 msgid "Temperature"
 msgstr ""
 
+msgid "Temperature:"
+msgstr ""
+
 msgid "This page displays the temperature sensors data."
 msgstr ""
 
